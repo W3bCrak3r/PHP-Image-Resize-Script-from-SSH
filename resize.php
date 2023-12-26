@@ -1,5 +1,6 @@
 <?php
 // Code By WebCraker 2023 | https://support-ar.net
+// Source : https://github.com/W3bCrak3r/PHP-Image-Resize-Script-from-SSH
 function resizeImages($dir) {
     $allowedExtensions = ['jpg', 'jpeg', 'png', 'bmp'];
     $maxWidth = 1024; // Change the maximum width as you wish
